@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>528547909665-kbnkfkvrcnuumkapghrnunt8519tk1fe.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.528547909665-kbnkfkvrcnuumkapghrnunt8519tk1fe</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>528547909665-08tu5448nh6g9vm6o7h8eh2lt08mfuh4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCVUKYX6tgl5mtAEtdBAGCey8-wyJjLRg8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>528547909665</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.imagan</string>
+	<key>PROJECT_ID</key>
+	<string>cisco-ai-ef87d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cisco-ai-ef87d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:528547909665:ios:ce7b3d3ab663d3c5199360</string>
+</dict>
+</plist>

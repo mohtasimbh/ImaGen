@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "528547909665",
+    "project_id": "cisco-ai-ef87d",
+    "storage_bucket": "cisco-ai-ef87d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528547909665:android:58e5c09b0418915d199360",
+        "android_client_info": {
+          "package_name": "com.example.imagan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528547909665-g19c058js2tlncqeqkohd6s5mjg3vv2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi8Dmlks_XxBWKt_U4qQ72yoPAhrqQwj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528547909665-g19c058js2tlncqeqkohd6s5mjg3vv2c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "528547909665-ic020be3mpcffiv98dq72hvecjl7qtn2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dalleFlutterMobileApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
